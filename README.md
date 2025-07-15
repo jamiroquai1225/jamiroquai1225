@@ -62,7 +62,7 @@
 ## 📄 학술 논문 경력
 
 | No | 논문 제목 | 학술지 | 발표일 | 저자역할 |
-|---|---|---|---|-----|
+|---|---|---|---|---|
 |1| 제주항 입출항 선박 및 화물량 이상치 탐지에 관한 연구 | 무역학회지 | 2025.02 | 제1저자 |
 |2| 국외 항만 물류 연구동향 분석: NLP (Natural Language Processing)의 적용 | 국제상학 | 2024.06 | 제1저자 |
 |3| Temporal and spatial effects of manufacturing agglomeration on CO2 emissions: Evidence from South Korea | Humanities and Social Sciences Communications | 2024.06 | 공동저자 |
