@@ -86,7 +86,7 @@
 |2| 제주항 입출항 선박 및 화물량 이상치 탐지에 관한 연구 | 무역학회지 | 2025.02 | 제1저자 |
 |3| 국외 항만 물류 연구동향 분석: NLP (Natural Language Processing)의 적용 | 국제상학 | 2024.06 | 제1저자 |
 |4| Temporal and spatial effects of manufacturing agglomeration on CO2 emissions: Evidence from South Korea | Humanities and Social Sciences Communications | 2024.06 | 공동저자 |
-|5 Network Centrality and Road Freight Efficiency: A Spatial Econometric Analysis of South Korea's Transport Regions | Journal of Korea Trade | 2024.04 | 교신저자 |
+|5| Network Centrality and Road Freight Efficiency: A Spatial Econometric Analysis of South Korea's Transport Regions | Journal of Korea Trade | 2024.04 | 교신저자 |
 |6| 서귀포항 물동량 예측과 활성화 방안 : Prophet 모형 및 SWOT 분석을 활용하여 | 국제상학 | 2024.03 | 제1저자 |
 |7| 초록데이터를 활용한 국외 B2C 전자상거래 물류 연구동향 분석 | 국제상학 | 2023.06 | 제1저자 |
 |8| 시계열 데이터를 활용한 포항항 물동량 예측: SARIMA, Prophet, Neural Prohet의 적용 | 무역학회지 | 2022.12 | 제1저자 |
