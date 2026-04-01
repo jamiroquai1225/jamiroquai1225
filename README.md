@@ -122,6 +122,19 @@
 
 ---
 
+## 📑 학술 대회
+| 순번 | 발표 제목 | 학회명 | 개최지 | 발표일 |
+|------|----------|--------|--------|--------|
+| 1 | Research of e-business market fulfillment in south korea : overview and analysis of fulfillment model | NTOU-CAU Collaboration Seminar | 대만 | 2015 |
+| 2 | 국내 e-비즈니스 기업들의 fulfillment process model 분석 | 한국인터넷전자상거래학회 | 제주 | 2016 |
+| 3 | 항만공사 운영체계 개선에 관한 연구 | 한국항만경제학회 | 부산 | 2016 |
+| 4 | Evolution of logistics functions of e-business firms : a financial analysis | In Symposium on Logistics | 독일 | 2019 |
+| 5 | 제주지역 물류산업 현안 및 개선방안 | 한국물류학회 | 제주 | 2023 |
+| 6 | 제주지역 물류산업 현안 및 개선방안 | 한국국제상학회 | 충주 | 2023 |
+| 7 | 제주 항만 데이터 품질 개선에 관한 논의 : 조례 제정을 중심으로 | 해운물류사업단 | 서울 | 2025 |
+| 8 | - | 한국항만경제학회 | 서울 | 2026 |
+| 9 | 복합감성지수를 활용한 인천항 컨테이너 이상치 탐지 연구 | 한국국제상학회 | 부산 | 2026 |
+
 ## 🌿 R&D 사업
 
 | No | 과제명 | 기간 | 역할 | 기관 |
