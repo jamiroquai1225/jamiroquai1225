@@ -124,7 +124,7 @@
 ---
 
 ## 📑 학술 대회
-| 순번 | 발표 제목 | 학회명 | 개최지 | 발표일 |
+| 순번 | 발표 제목 | 학회명 | 개최지 | 발표연도 |
 |------|----------|--------|--------|--------|
 | 1 | Research of e-business market fulfillment in south korea : overview and analysis of fulfillment model | NTOU-CAU Collaboration Seminar | 대만 | 2015 |
 | 2 | 국내 e-비즈니스 기업들의 fulfillment process model 분석 | 한국인터넷전자상거래학회 | 제주 | 2016 |
